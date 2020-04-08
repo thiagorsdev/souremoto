@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://thiagosantana.ghost.io",
-    "contentApiKey": "7a365ae63271d1e46c3ac4c8e6"
+    "apiUrl": "https://http://142.93.9.57",
+    "contentApiKey": "0c1ceb40734b5fa34caee7c161"
   },
   "production": {
-    "apiUrl": "https://thiagosantana.ghost.io",
-    "contentApiKey": "7a365ae63271d1e46c3ac4c8e6"
+    "apiUrl": "https://http://142.93.9.57",
+    "contentApiKey": "0c1ceb40734b5fa34caee7c161"
   }
 }
